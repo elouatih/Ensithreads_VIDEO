@@ -1,0 +1,38 @@
+/home/elouati/clion-2020.1.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/elouati/Documents/ensimag-video
+Package ogg was not found in the pkg-config search path.
+Perhaps you should add the directory containing `ogg.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'ogg' found
+Package vorbis was not found in the pkg-config search path.
+Perhaps you should add the directory containing `vorbis.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'vorbis' found
+Package theora was not found in the pkg-config search path.
+Perhaps you should add the directory containing `theora.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'theora' found
+Package theoradec was not found in the pkg-config search path.
+Perhaps you should add the directory containing `theoradec.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'theoradec' found
+Package ogg was not found in the pkg-config search path.
+Perhaps you should add the directory containing `ogg.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'ogg' found
+Package vorbis was not found in the pkg-config search path.
+Perhaps you should add the directory containing `vorbis.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'vorbis' found
+Package theora was not found in the pkg-config search path.
+Perhaps you should add the directory containing `theora.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'theora' found
+Package theoradec was not found in the pkg-config search path.
+Perhaps you should add the directory containing `theoradec.pc'
+to the PKG_CONFIG_PATH environment variable
+No package 'theoradec' found
+-- cflags: 
+-- ldflags: 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/elouati/Documents/ensimag-video/cmake-build-debug
